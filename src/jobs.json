@@ -1,0 +1,124 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "type": "Full-time",
+      "description": "We are looking for a talented frontend developer to build and maintain modern user interfaces. You will work with React, Tailwind CSS, and other cutting-edge technologies. Responsibilities include developing interactive UI components, optimizing performance, and collaborating with designers. If you have a passion for clean and efficient code, this role is for you.",
+      "location": "San Francisco, CA",
+      "salary": "$90,000 - $120,000",
+      "company_name": "Tech Innovations Inc.",
+      "company_description": "A leading software company specializing in modern web applications.",
+      "contact_email": "hr@techinnovations.com",
+      "contact_phone": "+1 (415) 555-1234"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "type": "Remote",
+      "description": "Join our team as a backend developer and help build scalable, high-performance server applications. You will be responsible for developing and maintaining APIs, handling database operations, and optimizing system performance. Experience with Node.js, MongoDB, and cloud services is required. If you enjoy solving complex backend challenges, we want to hear from you!",
+      "location": "Remote",
+      "salary": "$80,000 - $110,000",
+      "company_name": "Cloud Solutions Ltd.",
+      "company_description": "A cloud-based startup focusing on serverless computing.",
+      "contact_email": "jobs@cloudsolutions.com",
+      "contact_phone": "+1 (646) 555-5678"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Designer",
+      "type": "Contract",
+      "description": "As a UI/UX designer, you will create user-friendly interfaces and engaging digital experiences. Your role involves wireframing, prototyping, and testing UI components to ensure a seamless experience. You should have expertise in Figma, Adobe XD, and user research methodologies. Join our design team to work on exciting projects for top brands worldwide.",
+      "location": "New York, NY",
+      "salary": "$70,000 - $100,000",
+      "company_name": "Creative Minds Agency",
+      "company_description": "A design agency working with top brands worldwide.",
+      "contact_email": "careers@creativeminds.com",
+      "contact_phone": "+1 (212) 555-7890"
+    },
+    {
+      "id": 4,
+      "title": "DevOps Engineer",
+      "type": "Full-time",
+      "description": "We are seeking a DevOps engineer to manage our cloud infrastructure and CI/CD pipelines. You will work with AWS, Kubernetes, and Docker to automate deployments and ensure system reliability. Responsibilities include monitoring system performance, improving security, and optimizing infrastructure costs. If you love automation and cloud technologies, this is the perfect role for you.",
+      "location": "Seattle, WA",
+      "salary": "$100,000 - $130,000",
+      "company_name": "NextGen Tech",
+      "company_description": "A fast-growing tech company innovating in cloud computing.",
+      "contact_email": "hiring@nextgentech.com",
+      "contact_phone": "+1 (206) 555-4321"
+    },
+    {
+      "id": 5,
+      "title": "Mobile App Developer",
+      "type": "Remote",
+      "description": "We are hiring a mobile app developer to create seamless cross-platform applications using Flutter. You will work on UI development, performance optimization, and API integration. Responsibilities include collaborating with designers and backend developers to deliver high-quality mobile experiences. If you're passionate about building smooth and responsive apps, apply now!",
+      "location": "Remote",
+      "salary": "$85,000 - $115,000",
+      "company_name": "App Wizards",
+      "company_description": "A mobile development firm creating cutting-edge applications.",
+      "contact_email": "jobs@appwizards.com",
+      "contact_phone": "+1 (917) 555-6543"
+    },
+    {
+      "id": 6,
+      "title": "Data Scientist",
+      "type": "Full-time",
+      "description": "We are looking for a skilled data scientist to analyze large datasets and extract meaningful insights. You will use machine learning models, statistical analysis, and data visualization tools. Responsibilities include building predictive models, interpreting trends, and collaborating with teams to drive data-driven decisions. If you love working with data, this is the perfect role for you.",
+      "location": "Boston, MA",
+      "salary": "$110,000 - $140,000",
+      "company_name": "Data Insights Corp.",
+      "company_description": "A leading analytics firm helping businesses make data-driven decisions.",
+      "contact_email": "careers@datainsights.com",
+      "contact_phone": "+1 (617) 555-8765"
+    },
+    {
+      "id": 7,
+      "title": "Cybersecurity Analyst",
+      "type": "Full-time",
+      "description": "We are looking for a cybersecurity analyst to monitor and secure IT systems. Your job includes analyzing threats, implementing security measures, and responding to incidents. You should have expertise in penetration testing, firewalls, and network security. Join us in protecting businesses from cyber threats and ensuring data security.",
+      "location": "Washington, D.C.",
+      "salary": "$95,000 - $125,000",
+      "company_name": "SecureTech Inc.",
+      "company_description": "A cybersecurity company protecting enterprises from cyber threats.",
+      "contact_email": "security@securetech.com",
+      "contact_phone": "+1 (202) 555-3456"
+    },
+    {
+      "id": 8,
+      "title": "Machine Learning Engineer",
+      "type": "Remote",
+      "description": "Join our AI research team as a machine learning engineer and develop cutting-edge AI models. You will work on training and deploying deep learning models, optimizing algorithms, and handling large datasets. Responsibilities include implementing NLP, computer vision, and AI-driven solutions. If you're excited about AI and its real-world applications, apply today!",
+      "location": "Remote",
+      "salary": "$120,000 - $150,000",
+      "company_name": "AI Pioneers",
+      "company_description": "An AI research company pushing the boundaries of artificial intelligence.",
+      "contact_email": "mljobs@aipioneers.com",
+      "contact_phone": "+1 (650) 555-9087"
+    },
+    {
+      "id": 9,
+      "title": "Product Manager",
+      "type": "Full-time",
+      "description": "As a product manager, you will be responsible for defining product roadmaps and working with cross-functional teams. Your role includes gathering user feedback, prioritizing features, and leading agile development teams. You should have strong problem-solving skills and experience in SaaS or software products. If you love building innovative products, join us!",
+      "location": "Austin, TX",
+      "salary": "$105,000 - $135,000",
+      "company_name": "InnovateX",
+      "company_description": "A startup developing next-generation SaaS products.",
+      "contact_email": "pm@innovatex.com",
+      "contact_phone": "+1 (512) 555-2345"
+    },
+    {
+      "id": 10,
+      "title": "Technical Support Engineer",
+      "type": "Contract",
+      "description": "We are looking for a technical support engineer to help customers troubleshoot software and hardware issues. You will provide technical guidance, resolve customer queries, and document common problems. Responsibilities include working with internal teams to improve product stability and user experience. If you have strong problem-solving skills and enjoy helping others, apply now!",
+      "location": "Chicago, IL",
+      "salary": "$60,000 - $90,000",
+      "company_name": "Support Pros",
+      "company_description": "A tech support company assisting businesses with IT solutions.",
+      "contact_email": "support@supportpros.com",
+      "contact_phone": "+1 (312) 555-6789"
+    }
+  ]
+}
